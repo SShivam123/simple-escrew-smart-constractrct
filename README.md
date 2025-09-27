@@ -2,7 +2,8 @@
 
 ## Project Description
 
-A minimal implementation of an escrow smart contract using Soroban SDK, allowing two partie (a buyer and a seller) to engage in a trusted transaction. Funds are held securely in escrow until manually released.
+A minimal implementation of an escrow smart contract using Soroban SDK, allowing two partie (a buyer and a seller) to engage in a trusted transaction. Funds are helds
+securely in escrow until manually released.
 
 ## Project Vision
 
@@ -26,6 +27,7 @@ To provide a lightweight and transparent escrow system for decentralized applica
 CDK4QU3FOUBI44MUVWTXSTUWXLCMYVRVJRGQCEOP5XYQOUXE62HOR2YA
 
 ![alt text](image.png)
+
 
 
 

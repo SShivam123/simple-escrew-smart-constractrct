@@ -7,7 +7,7 @@ securely in escrow until manually released.
 
 ## Project Vision
 
-To provide a lightweight and transparent escrow system for decentralized applications, facilitating trustless transactions between parties with minimal overhead.
+To provide a lightweight and transparent escrow system for decentralized application, facilitating trustless transactions between parties with minimal overhead.
 
 ## Key Features
 
@@ -27,6 +27,7 @@ To provide a lightweight and transparent escrow system for decentralized applica
 CDK4QU3FOUBI44MUVWTXSTUWXLCMYVRVJRGQCEOP5XYQOUXE62HOR2YA
 
 ![alt text](image.png)
+
 
 
 

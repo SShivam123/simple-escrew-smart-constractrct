@@ -11,7 +11,7 @@ To provide a lightweight and transparent escrow system for decentralized applica
 
 ## Key Features
 
-- **Escrow Initialization:** Setup between buyer and seller with locked funds.
+- **Escrow Initialization:** Setup between buyer and seller with locked fund.
 - **Fund Release:** Manual release of funds by an authorized party (e.g., arbitrator or automated condition).
 - **State View:** Real-time viewing of escrow status and details.
 
@@ -27,6 +27,7 @@ To provide a lightweight and transparent escrow system for decentralized applica
 CDK4QU3FOUBI44MUVWTXSTUWXLCMYVRVJRGQCEOP5XYQOUXE62HOR2YA
 
 ![alt text](image.png)
+
 
 
 

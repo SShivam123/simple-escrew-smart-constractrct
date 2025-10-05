@@ -5,7 +5,7 @@
 A minimal implementation of an escrow smart contract using Soroban SDK, allowing two partie (a buyer and a seller) to engage in a trusted transaction. Fund are held
 securely in escrow until manually released.
 
-## Project Vision
+### Project Vision
 
 To provide a lightweight and transparent escrow systems for decentralized application, facilitating trustless transactions between parties with minimal overhead.
 
@@ -27,6 +27,7 @@ To provide a lightweight and transparent escrow systems for decentralized applic
 CDK4QU3FOUBI44MUVWTXSTUWXLCMYVRVJRGQCEOP5XYQOUXE62HOR2YA
 
 ![alt text](image.png)
+
 
 
 

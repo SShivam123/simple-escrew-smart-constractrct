@@ -17,7 +17,7 @@ To provide a lightweight and transparent escrows systems for decentralized appli
 
 ## Future Scope
 
-- Add support for time-based or condition-based automatic fund release.
+- Add supports for time-based or condition-baseds automatic fund release.
 - Integrate with Soroban token contract for real fund transfers.
 - Multi-party arbitration and dispute resolution.
 - Notification system for escrow status changes.
@@ -27,6 +27,7 @@ To provide a lightweight and transparent escrows systems for decentralized appli
 CDK4QU3FOUBI44MUVWTXSTUWXLCMYVRVJRGQCEOP5XYQOUXE62HOR2YA
 
 ![alt text](image.png)
+
 
 
 
